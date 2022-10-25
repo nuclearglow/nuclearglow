@@ -3,8 +3,8 @@
 </div>
 
 <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/svenvowe/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/svenvowe/">
+    <img src="https://img.shields.io/badge/LinkedIn-visit-blue" alt="LinkedIn Profile"/>
   </a>
   <a href="https://svenvowe.de">
     <img src="https://img.shields.io/badge/homepage-visit-brightgreen" alt="Homepage"/>
