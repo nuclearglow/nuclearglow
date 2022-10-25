@@ -8,10 +8,12 @@
       <img src="https://img.shields.io/badge/LinkedIn-visit-blue" alt="LinkedIn Profile"/>
     </a>
     <a href="https://svenvowe.de">
-      <img src="https://img.shields.io/badge/homepage-visit-brightgreen" alt="Homepage"/>
+      <img src="https://img.shields.io/badge/Homepage-visit-brightgreen" alt="Homepage"/>
     </a>
   </div>
 
+  <br />
+  
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
