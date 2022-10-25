@@ -23,5 +23,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   </div>
 
+  <br />
+  
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nuclearglow&theme=dark&hide_border=true)](https://git.io/streak-stats)
 </div>
