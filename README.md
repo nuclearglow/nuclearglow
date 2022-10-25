@@ -21,7 +21,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-    <img src="[https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg](https://user-images.githubusercontent.com/1580357/197813448-299e0ec5-a5e7-4262-8a42-c7a799fc9c7e.png)" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
+    <img src="https://user-images.githubusercontent.com/1580357/197813448-299e0ec5-a5e7-4262-8a42-c7a799fc9c7e.png" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
   </div>
 
 
